@@ -64,7 +64,7 @@
   5. 医学图像智能分析
 
      - 细胞检测、分割与分类
-       - **Sample hardness based gradient loss for long-tailed cervical cell detection (MICCAI 2022)** 
+       - **Sample hardness based gradient loss for long-tailed cervical cell detection (MICCAI 2022)** [[code](https://github.com/M-LLiu/Grad-Libra)]
        - **Deep Cross Residual Network for HEp2 Cell Staining Pattern Classification (Pattern Recognition 2018)** [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318301705)]
        - **HEp-2 Specimen Image Segmentation and Classification Using Very Deep Fully Convolutional Network (IEEE TMI 2017)** [[paper](https://ieeexplore.ieee.org/document/7862234/citations#citations)]
      - 肺部影像智能分析
